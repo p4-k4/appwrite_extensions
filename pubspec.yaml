@@ -1,7 +1,8 @@
 name: appwrite_extensions
 description: Various method extensions based around the appwrite flutter SDK.
 version: 0.0.1
-homepage:
+homepage: https://github.com/p4-k4/appwrite_extensions
+repository: https://github.com/p4-k4/appwrite_extensions
 
 environment:
   sdk: ">=2.17.1 <3.0.0"
