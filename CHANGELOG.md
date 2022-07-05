@@ -1,3 +1,4 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+* Kicking off the collection of extension methods, more to come.
+* Databases gets upsert.
